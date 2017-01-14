@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jkakar/envtest.svg?branch=master)](https://travis-ci.org/jkakar/envtest)
+
 Support for manipulating environment variables in tests.
 
 ## Installation
