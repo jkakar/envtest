@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jkakar/envtest.svg?branch=master)](https://travis-ci.org/jkakar/envtest)
+[![Build Status](https://travis-ci.org/jkakar/envtest.svg?branch=master)](https://travis-ci.org/jkakar/envtest) [![GoDoc](https://godoc.org/github.com/jkakar/envtest?status.svg)](http://godoc.org/github.com/jkakar/envtest)
 
 Support for manipulating environment variables in tests.
 
